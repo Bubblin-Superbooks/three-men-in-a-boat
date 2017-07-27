@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Three Men in a Boat",
-  "type": "text"
+  "type": "text",
+  "book_id": 476
 }
